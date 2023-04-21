@@ -4,5 +4,5 @@ backports.zoneinfo==0.2.1
 Django==4.1.6
 pkg_resources==0.0.0
 pycodestyle==2.9.1
-sqlparse==0.4.3
+sqlparse==0.4.4
 tomli==2.0.1
